@@ -1,6 +1,8 @@
+package figuras;
+
 import java.util.Scanner;
 
-public class Circulo implements IDFigura{
+public class Circulo implements IDFigura {
 
     public static final double pi = 3.1415;
 
